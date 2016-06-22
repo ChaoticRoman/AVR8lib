@@ -2,14 +2,20 @@
 
 Various libraries for AVR 8-bit microcontrollers ATmega and ATttiny.
 
+=== Mine
+Makefile
+defines.h
+main.c
 adc
-DS18B20
-graphic
-lcd
-mmc
-myutils
-rtc
 spi
 timer
-T6963C
 usart
+myutils
+
+=== Other guys (as in described in code or here)
+DS18B20
+graphic # author: Radoslaw Kwiecien
+lcd # TODO: find author
+mmc # TODO: finda author
+rtc
+T6963C
